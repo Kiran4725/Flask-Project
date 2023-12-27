@@ -1,5 +1,6 @@
 # Flask-Project
 A project using Python and the Flask Web Framework to create an online movie ticket booking system.
+
 **Database Name: dbtheatre**
 
 **Recommended Python Version 3.x**
